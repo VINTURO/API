@@ -19,7 +19,7 @@ public interface Camera {
 
     /**
      * Return the camera stream URL
-     * @return
+     * @return String url
      */
     String getStreamURL();
 }
